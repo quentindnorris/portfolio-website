@@ -5,9 +5,9 @@ import styled from 'styled-components'
 
 const Header = () => {
   return (
-    <Nav>
-      
-    </Nav>
+  <>
+  <h1> Hello World </h1>
+  </>
   )
 }
 
